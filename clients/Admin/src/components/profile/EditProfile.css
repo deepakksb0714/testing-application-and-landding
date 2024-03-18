@@ -1,0 +1,46 @@
+
+.container11{
+   
+    width: 100%;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 2%;
+}
+
+.form-title{
+    font-size: 26px;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: 6px;
+    color: white;
+    text-shadow: 2px 2px 2px red;
+    border-bottom: solid 1px white;
+}
+.form-group2{
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 1%;
+    float: left;
+}
+
+.form-group1{
+   
+    width: 50%;
+    padding-right: 2%; 
+    padding-left: 1%;
+    float: right;
+}
+.Form-1{
+    text-align: center;
+}
+
+ 
+
+.userProfile1{
+    width: 70%;
+    margin-left: 18%;
+    background-color: #FFFFFF;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    box-shadow: 2px 20px 30px rgb(250, 70, 22);
+}

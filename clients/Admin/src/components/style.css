@@ -1,0 +1,138 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+
+.body{
+  width: 100%;
+}
+
+
+
+.form1{
+    padding-left: 200px;
+    background-color: #FFFFFF;
+    width: auto;
+    margin-right: 1px;
+    margin-left: 100px;
+  }
+
+.form2{
+  background-color: #FFFFFF;
+  padding-right: 200px;
+  width: auto;
+  margin-left: 1px;
+  margin-right: 100px;
+}
+.div1{
+background-color: #FFFFFF;
+width: 50%;
+float: left;
+}
+.div2{
+background-color: #FFFFFF;
+width: 50%;
+float: right;
+
+}
+.h11{
+    text-align: left;
+    
+}
+.h22{
+    text-align: left;
+}
+
+.out1{
+  width: 100%;
+}
+
+
+  
+  .form1 label,
+  .form1 select,
+  .form1 input {
+    width: 100%;
+    margin-bottom: 10px;
+
+  }
+  
+  .address-section,
+  .address-details {
+    width: 48%; /* Adjust the width as needed */
+  }
+  
+  .item-details-section {
+    width: 100%;
+  }
+  
+
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.flex-column {
+  width: 250px; /* Adjust the width as needed */
+  background-color: #f8f9fa; /* Sidebar background color */
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-right: 1px solid #dee2e6; /* Sidebar border color */
+  height: 100%;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, .1); /* Adjust the shadow properties as needed */
+  /* overflow-y: scroll; */
+}
+
+
+.flex-column a {
+  color: #343a40; /* Link color */
+}
+
+
+.flex-column a:hover {
+  color: #007bff; /* Link color on hover */
+}
+/* style.css */
+
+.nav-dropdown {
+  max-height: 0;
+  overflow: auto;
+  transition: max-height 0.3s ease-in-out;
+}
+
+.nav-dropdown.show {
+  max-height: 200px; /* Adjust the max-height as needed */
+}
+.inner-container{
+  background-color: #f8f9fa;
+}
+
+.box-shadow{
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-box-shadow {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 1); /* Adjust values as needed */
+  transition: box-shadow .5s ease; /* Optional: Add transition for a smoother effect */
+}
+
+
+.menu-link {
+  background-color: transparent !important;
+  color: black !important;
+  padding-left: 10px !important;
+  padding-top: 0px !important;
+}
+.menu-items {
+  background-color: transparent !important;
+  color: black !important;
+  padding-left: 5px !important;
+  padding-top: 0px;
+}
+
+.sidenavbar{
+  height: 100vh;
+}
